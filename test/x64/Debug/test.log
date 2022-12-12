@@ -1,13 +1,2 @@
-﻿  ball.cpp
-C:\Users\хХх\Desktop\test\test\ball.cpp(43,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\хХх\Desktop\test\test\ball.cpp(45,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\хХх\Desktop\test\test\ball.cpp(46,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\хХх\Desktop\test\test\ball.cpp(63,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\хХх\Desktop\test\test\ball.cpp(66,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  main.cpp
-  paddle.cpp
-C:\Users\хХх\Desktop\test\test\paddle.cpp(52,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  pong.cpp
-  utilities.cpp
-  Generating Code...
+﻿  pong.cpp
   test.vcxproj -> C:\Users\хХх\Desktop\test\x64\Debug\test.exe

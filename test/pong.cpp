@@ -81,7 +81,7 @@ Pong::Pong(int argc, char* argv[]) {
     // Fonts.
     TTF_Init();  // Initialize font.
     font_color = { 255, 255, 255, 255 };
-    font_name = "resources/fonts/NES-Chimera/NES-Chimera.ttf";
+    font_name = "resources/fonts/NES-Chimera/ChimeraTailRough.ttf";
     font_image_launch = renderText("Press SPACE to start",
         font_name, font_color, 16, renderer);
 
